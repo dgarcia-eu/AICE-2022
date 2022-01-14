@@ -1,2 +1,1 @@
-# politicization2021
-The politicization of medical topics on social media
+# AICE 2022
